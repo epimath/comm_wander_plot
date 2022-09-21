@@ -32,7 +32,8 @@ ui <- fluidPage(
                          h6(strong("Number of Days Previous:")), 
                          value = 5),
             br(),
-            h6(HTML("The data displayed here is pulled from <a href='https://www.mistartmap.info/cdc-community-levels-indicators'>MI Safe Start Map</a>."))
+            h6(HTML("The data displayed here is pulled from <a href='https://www.mistartmap.info/cdc-community-levels-indicators'>MI Safe Start Map</a>.")), 
+            h6(HTML("For more information regarding CDC Community Levels, please visit <a href='https://www.cdc.gov/coronavirus/2019-ncov/science/science-briefs/indicators-monitoring-community-levels.html'>the CDC resources</a>."))
         ),
 
         # Show a plot
