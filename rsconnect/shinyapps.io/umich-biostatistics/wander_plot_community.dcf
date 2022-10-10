@@ -5,9 +5,9 @@ account: umich-biostatistics
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 7162581
-bundleId: 6352550
+bundleId: 6388489
 url: https://umich-biostatistics.shinyapps.io/wander_plot_community/
-when: 1664472617.32118
-lastSyncTime: 1664472617.32118
+when: 1665423031.60517
+lastSyncTime: 1665423031.60517
 asMultiple: FALSE
 asStatic: FALSE
