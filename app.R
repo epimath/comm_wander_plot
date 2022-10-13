@@ -12,7 +12,7 @@ library(tidyverse)
 library(ggrepel)
 library(lubridate)
 
-full_info <- read.csv("data/sample_cdc_community_data.csv")
+full_info <- read.csv("https://raw.githubusercontent.com/epimath/comm_wander_plot/main/data/sample_cdc_community_data.csv")
 
 # Define UI for application that draws a histogram
 ui <- fluidPage(
